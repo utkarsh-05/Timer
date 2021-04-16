@@ -46,7 +46,7 @@ start.addEventListener('click',function(){
                 digits[j].innerHTML = parseInt(0) ;
                 }   
                 return;
-            },1000)
+            },10)
             
         }
     },1000);
